@@ -1,0 +1,41 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?",
+            "correct_answer": "Hell Knight",
+            "incorrect_answers": [
+                "Mancubus",
+                "Pinky",
+                "Arch-Vile"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Of the following space shooter games, which came out first?",
+            "correct_answer": "Space Invaders",
+            "incorrect_answers": [
+                "Galaxian",
+                "Galaga",
+                "Sinistar"
+            ]
+        },
+        {
+            "category": "",
+            "type": "",
+            "difficulty": "",
+            "question": "The End",
+            "correct_answer": "",
+            "incorrect_answers": [
+                "",
+                "",
+                ""
+            ]
+        }
+    ]
+}
